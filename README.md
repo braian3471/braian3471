@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @braian3471
-- 👀 I’m interested in estagios
-- 🌱 I’m currently learning Dart/framework flutter.
+- 👀 Seeking an opportunity to grow and contribute as a Front-End Developer.
+- 🌱 I’m currently learning JS, HTML, CSS, PHP.
 - 📫 How to reach me https://www.instagram.com/flores__1.0/profilecard/?igsh=MXF1Y2NoOXY0YzBteQ==
+- my linkdlin: https://www.linkedin.com/in/braian-flores-98a3b319a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 <!---
